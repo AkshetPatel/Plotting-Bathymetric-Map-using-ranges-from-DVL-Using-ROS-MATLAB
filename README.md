@@ -7,7 +7,7 @@ Software development of Bathymetric Map generation using ranges from Doppler Vel
 Mr. Akshet Bharat Patel <br>
 B. Tech, Mechatronics Engineering, Manipal University Jaipur, Rajasthan. <br>
 
-### Under the guidance of
+<centre ### Under the guidance of >
 Mrs. Nagvekar M Surekha, Principal Technical Officer, Marine Instrumentation Division <br>
 Mr. Pramod Maurya, Principal Scientist, Marine Instrumentation Division <br>
 Dr Raja Rout, Assistant Professor, Manipal University Jaipur <br>
