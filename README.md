@@ -12,7 +12,7 @@ Mrs. Nagvekar M Surekha, Principal Technical Officer, Marine Instrumentation Div
 Mr. Pramod Maurya, Principal Scientist, Marine Instrumentation Division <br>
 Dr Raja Rout, Assistant Professor, Manipal University Jaipur <br>
 
-![](https://github.com/AkshetPatel/Plotting-Bathymetric-Map-using-ranges-from-DVL-Using-ROS-MATLAB/blob/main/img/logo.jpeg)
-NATIONAL INSTITUTE OF OCEANOGRAPHY
-Dona Paula, Goa-403 004, INDIA
-Period: 1st December 2021 to 31st January 2022
+![](https://github.com/AkshetPatel/Plotting-Bathymetric-Map-using-ranges-from-DVL-Using-ROS-MATLAB/blob/main/img/logo.jpeg) <br>
+NATIONAL INSTITUTE OF OCEANOGRAPHY <br>
+Dona Paula, Goa-403 004, INDIA <br>
+Period: 1st December 2021 to 31st January 2022 <br>
