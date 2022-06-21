@@ -5,9 +5,7 @@ Software development of Bathymetric Map generation using ranges from Doppler Vel
 
 ### Developed by
 Mr. Akshet Bharat Patel <br>
-B. Tech, Mechatronics Engineering <br>
-Manipal University Jaipur <br>
-Rajasthan. <br>
+B. Tech, Mechatronics Engineering, Manipal University Jaipur, Rajasthan. <br>
 
 ### Under the guidance of
 Mrs. Nagvekar M Surekha, Principal Technical Officer, Marine Instrumentation Division <br>
