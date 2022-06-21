@@ -65,3 +65,5 @@ Hence by implementing the Linear Velocity Transformation matrix denoted by 𝑱�
 [8] H. Robinson and P. D. Jarman, “A Navigation System For Underwater Vehicles INTEGRATING DVL AND USBL MEASUREMENTS,” pp. 117–130, 1996, doi: 10.3940/rina.warship.1996.3. <br>
 [9] J. W. & SONS, “Guidance and Control of Ocean Vehicles - Thor I. Fossen.pdf.” p. 64, 1994. <br>
 [10] M. M. M. Manhães, S. A. Scherer, M. Voss, L. R. Douat, and T. Rauschenbach, “{UUV} Simulator: A Gazebo-based package for underwater intervention and multi-robot simulation,” Sep. 2016, doi: 10.1109/oceans.2016.7761080.<br>
+
+© Copyright 2022 Akshet Bharat Patel. All Rights Reserved
