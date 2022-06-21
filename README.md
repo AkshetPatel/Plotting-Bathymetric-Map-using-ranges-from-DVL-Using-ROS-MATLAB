@@ -53,3 +53,15 @@ Mesh Plot of the interpolated coordinates <br>
 
 ### Conclusion
 Hence by implementing the Linear Velocity Transformation matrix denoted by 𝑱𝟏(𝜼𝟐), the bathymetric map of the seabed can be calculated by adjusting the roll, pitch, and yaw motion of the vehicle and can be visualised using Rviz. The data extracted from the DVL is then saved to a .csv file from the .bag file and imported into MATLAB for plotting the bathymetry maps of the seabed. <br>
+
+### References
+[1] “How is bathymetric data used?,” US Department of Commerce, National Oceanic and Atmospheric Administration. https://oceanservice.noaa.gov/facts/bathyuses.html (accessed Feb. 08, 2022).
+[2] N. O. and A. A. US Department of Commerce, “Monitoring Oceans and Coasts,” 2015. https://oceanservice.noaa.gov/observations/monitoring/ (accessed Feb. 08, 2022).
+[3] C. A. Wyban, “Tides and Tidal Currents—Guidelines for Site and Energy Resource Assessment,” Tide Curr., pp. 13–25, 2020, doi: 10.2307/j.ctvz0h8mc.7.
+[4] L. A. M. Bush, L. Blackmore, and B. C. Williams, “AUV bathymetric mapping depth planning for bottom following splice linear programming algorithm,” Ocean. 2016 MTS/IEEE Monterey, OCE 2016, 2016, doi: 10.1109/OCEANS.2016.7761306.
+[5] S. Barkby, S. B. Williams, O. Pizarro, and M. V Jakuba, “A featureless approach to efficient bathymetric SLAM using distributed particle mapping,” J. F. Robot., vol. 28, no. 1, pp. 19–39, 2011.
+[6] C. Roman and H. Singh, “A self-consistent bathymetric mapping algorithm,” J. F. Robot., vol. 24, no. 1–2, pp. 23–50, 2007.
+[7] C. Kunz and H. Singh, “Map building fusing acoustic and visual information using autonomous underwater vehicles,” J. F. Robot., vol. 30, no. 5, pp. 763–783, 2013, doi: 10.1002/rob.21473.
+[8] H. Robinson and P. D. Jarman, “A Navigation System For Underwater Vehicles INTEGRATING DVL AND USBL MEASUREMENTS,” pp. 117–130, 1996, doi: 10.3940/rina.warship.1996.3.
+[9] J. W. & SONS, “Guidance and Control of Ocean Vehicles - Thor I. Fossen.pdf.” p. 64, 1994.
+[10] M. M. M. Manhães, S. A. Scherer, M. Voss, L. R. Douat, and T. Rauschenbach, “{UUV} Simulator: A Gazebo-based package for underwater intervention and multi-robot simulation,” Sep. 2016, doi: 10.1109/oceans.2016.7761080.
