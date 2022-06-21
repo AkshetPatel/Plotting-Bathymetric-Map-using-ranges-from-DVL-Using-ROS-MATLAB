@@ -67,3 +67,6 @@ Hence by implementing the Linear Velocity Transformation matrix denoted by 𝑱�
 [10] M. M. M. Manhães, S. A. Scherer, M. Voss, L. R. Douat, and T. Rauschenbach, “{UUV} Simulator: A Gazebo-based package for underwater intervention and multi-robot simulation,” Sep. 2016, doi: 10.1109/oceans.2016.7761080.<br>
 
 © Copyright 2022 Akshet Bharat Patel. All Rights Reserved
+
+## Feedback
+If you have any feedback, please reach out to us at akshet.ap@gmail.com
